@@ -1,6 +1,6 @@
 # ASDgmm
 
-A Gut Microbial Model for Autism Diagnosis Based on Machine Learning
+A Gut Microbial Model for Autism Diagnosis Based on Machine Learning  
 link :https://achuan-2.top/ASDgmm/#/
 
 ## Project setup

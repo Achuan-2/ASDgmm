@@ -1,7 +1,3 @@
-git checkout main
-git add .
-git commit -m "update"
-git push -u origin master
 npm run build
 git checkout -b gh-pages
 git add -f dist

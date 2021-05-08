@@ -14,7 +14,7 @@ import UserProfile from "../views/user/Profile"
 Vue.use(VueRouter)
 //导出
 export default new VueRouter({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     { 
       

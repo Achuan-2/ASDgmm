@@ -1,12 +1,11 @@
 <template>
-    <div>
+  <div>
     <h1>404,你的页面走丢了༼ つ ◕_◕ ༽つ</h1>
-    </div>
+  </div>
 </template>
 <script>
-    export default {
-        name: "NotFound"
-    }
+export default {
+  name: "NotFound"
+};
 </script>
-<style scoped>
-</style>
+<style scoped></style>

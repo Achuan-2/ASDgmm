@@ -7,7 +7,7 @@
   <!--a标签 to就是href属性-->
   <!-- <router-link to="/main">首页</router-link>
     <router-link to="/login">登陆页</router-link>
-    <router-link to="/login">联系人页面</router-link> -->
+  <router-link to="/login">联系人页面</router-link>-->
   <!-- 这个标签就是用来展示路由页面的视图 -->
 </template>
 
